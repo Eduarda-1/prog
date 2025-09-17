@@ -1,0 +1,2 @@
+# prog
+work 1
